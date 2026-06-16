@@ -2,11 +2,12 @@ import { useMemo } from 'react';
 import { useAppContext } from '../contexts/AppContext';
 import lifeData from '../data/life';
 import memoryData from '../data/memory';
+import pulseData from '../data/pulse';
 
 const DATA_MAP = {
   life: lifeData,
   memory: memoryData,
-  pulse: null,
+  pulse: pulseData,
 };
 
 export function useData() {
