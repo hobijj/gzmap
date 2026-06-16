@@ -1,0 +1,56 @@
+const cityChange = {
+  id: 'cityChange',
+  name: '城市版图变迁',
+  description: '广州从秦代任嚣城到现代大都市的版图扩张历程',
+  mapData: {
+    type: 'scatter',
+    points: [
+      // 各个朝代的广州城核心位置
+      { lat: 23.1255, lng: 113.2650, value: 95, name: '秦·任嚣城（前214）', district: '越秀', category: '城墙遗址', era: '秦代' },
+      { lat: 23.1260, lng: 113.2670, value: 92, name: '汉·赵佗城', district: '越秀', category: '城墙遗址', era: '汉代' },
+      { lat: 23.1275, lng: 113.2680, value: 90, name: '唐·广州都督府', district: '越秀', category: '行政中心', era: '唐代' },
+      { lat: 23.1280, lng: 113.2660, value: 93, name: '宋·广州子城', district: '越秀', category: '城墙遗址', era: '宋代' },
+      { lat: 23.1240, lng: 113.2720, value: 88, name: '明·广州府城', district: '越秀', category: '城墙遗址', era: '明代' },
+      { lat: 23.1180, lng: 113.2400, value: 85, name: '清·西关商埠区', district: '荔湾', category: '商业扩张', era: '清代' },
+      { lat: 23.1150, lng: 113.2420, value: 83, name: '民国·沙面租界', district: '荔湾', category: '租界区', era: '民国' },
+      { lat: 23.1000, lng: 113.3200, value: 80, name: '民国·河南开发', district: '海珠', category: '城市扩张', era: '民国' },
+      { lat: 23.1600, lng: 113.2700, value: 75, name: '新中国·白云新城', district: '白云', category: '新区开发', era: '1950s-' },
+      { lat: 23.1300, lng: 113.3400, value: 82, name: '改革开放·天河新城', district: '天河', category: '新区开发', era: '1980s-' },
+      { lat: 23.1255, lng: 113.3320, value: 90, name: '21世纪·珠江新城CBD', district: '天河', category: 'CBD', era: '2000s-' },
+      { lat: 23.1100, lng: 113.4500, value: 72, name: '科学城（1998-）', district: '黄埔', category: '产业新城', era: '1990s-' },
+      { lat: 22.7500, lng: 113.5800, value: 70, name: '南沙新区（2012-）', district: '南沙', category: '国家级新区', era: '2010s-' },
+      { lat: 23.0900, lng: 113.4800, value: 68, name: '知识城（2010-）', district: '黄埔', category: '中新合作', era: '2010s-' },
+      { lat: 22.9400, lng: 113.3500, value: 75, name: '番禺撤市设区（2000）', district: '番禺', category: '行政区划', era: '2000年' },
+      { lat: 23.1300, lng: 113.6100, value: 65, name: '增城撤市设区（2014）', district: '增城', category: '行政区划', era: '2014年' },
+      { lat: 23.4000, lng: 113.2100, value: 62, name: '花都撤市设区（2000）', district: '花都', category: '行政区划', era: '2000年' },
+      { lat: 23.5500, lng: 113.5800, value: 58, name: '从化撤市设区（2014）', district: '从化', category: '行政区划', era: '2014年' },
+    ],
+    regions: [
+      { district: '越秀', value: 15 },
+      { district: '荔湾', value: 59 },
+      { district: '海珠', value: 90 },
+      { district: '天河', value: 96 },
+      { district: '白云', value: 796 },
+      { district: '番禺', value: 530 },
+      { district: '黄埔', value: 484 },
+      { district: '南沙', value: 803 },
+      { district: '增城', value: 1616 },
+      { district: '花都', value: 970 },
+      { district: '从化', value: 1975 },
+    ],
+  },
+  chartData: {
+    type: 'bar',
+    title: '广州各区面积对比 (km²)',
+    xField: 'district',
+    yField: 'value',
+    unit: 'km²',
+  },
+  stats: [
+    { label: '建城历史', value: '2200+ 年' },
+    { label: '现辖面积', value: '7,434 km²' },
+    { label: '从秦城到都会', value: '面积增长1000×' },
+  ],
+};
+
+export default cityChange;

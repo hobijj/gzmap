@@ -1,0 +1,58 @@
+:root {
+  /* 基底 */
+  --color-bg-primary: #1a1410;
+  --color-bg-secondary: #231e1a;
+  --color-bg-card: rgba(35, 30, 26, 0.85);
+  --color-bg-card-hover: rgba(45, 38, 32, 0.9);
+
+  /* 主色 - 广彩红 */
+  --color-accent: #c41e3a;
+  --color-accent-light: #e85d3a;
+  --color-accent-dark: #8b1a2b;
+
+  /* 辅色 - 鎏金 */
+  --color-gold: #d4a853;
+  --color-gold-light: #e8c97a;
+  --color-gold-dark: #a07040;
+
+  /* 点缀 - 越秀绿 */
+  --color-green: #2d6a4f;
+  --color-green-light: #52b788;
+
+  /* 文字 */
+  --color-text-primary: #f0e6d8;
+  --color-text-secondary: #b0a090;
+  --color-text-muted: #6e6058;
+
+  /* 边框 */
+  --color-border: rgba(212, 168, 83, 0.2);
+  --color-border-active: rgba(212, 168, 83, 0.5);
+
+  /* 图表色板 */
+  --chart-red: #c41e3a;
+  --chart-orange: #e85d3a;
+  --chart-gold: #d4a853;
+  --chart-green: #2d6a4f;
+  --chart-teal: #1a6b5a;
+  --chart-blue: #3a5f8b;
+
+  /* 间距 */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+
+  /* 圆角 */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* 阴影 */
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.3);
+  --shadow-glow: 0 0 20px rgba(212, 168, 83, 0.1);
+
+  /* 字体 */
+  --font-sans: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+}

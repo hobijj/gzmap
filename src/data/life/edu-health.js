@@ -1,0 +1,53 @@
+const eduHealth = {
+  id: 'eduHealth',
+  name: '教育医疗资源',
+  description: '广州三甲医院、重点中小学及高校分布',
+  mapData: {
+    type: 'scatter',
+    points: [
+      { lat: 23.1280, lng: 113.2650, value: 95, name: '广东省人民医院', district: '越秀', type: '医院', category: '三甲' },
+      { lat: 23.1300, lng: 113.2700, value: 95, name: '中山大学附属第一医院', district: '越秀', type: '医院', category: '三甲' },
+      { lat: 23.1250, lng: 113.2600, value: 92, name: '广州医科大学附属第一医院', district: '越秀', type: '医院', category: '三甲' },
+      { lat: 23.1350, lng: 113.3200, value: 90, name: '中山三院', district: '天河', type: '医院', category: '三甲' },
+      { lat: 23.1200, lng: 113.2400, value: 88, name: '广州市第一人民医院', district: '荔湾', type: '医院', category: '三甲' },
+      { lat: 23.1000, lng: 113.2900, value: 88, name: '南方医科大学珠江医院', district: '海珠', type: '医院', category: '三甲' },
+      { lat: 23.1600, lng: 113.2700, value: 82, name: '南方医院', district: '白云', type: '医院', category: '三甲' },
+      { lat: 22.9300, lng: 113.3600, value: 80, name: '番禺中心医院', district: '番禺', type: '医院', category: '三甲' },
+      { lat: 23.1000, lng: 113.3000, value: 90, name: '中山大学(南校区)', district: '海珠', type: '高校', category: '985/211' },
+      { lat: 23.1400, lng: 113.3500, value: 88, name: '华南理工大学', district: '天河', type: '高校', category: '985/211' },
+      { lat: 23.1300, lng: 113.3500, value: 86, name: '暨南大学', district: '天河', type: '高校', category: '211' },
+      { lat: 23.1400, lng: 113.3600, value: 85, name: '华南师范大学', district: '天河', type: '高校', category: '211' },
+      { lat: 23.0700, lng: 113.4300, value: 85, name: '广州大学城', district: '番禺', type: '高校群', category: '10+高校' },
+      { lat: 23.1250, lng: 113.2800, value: 80, name: '华师附中', district: '天河', type: '中学', category: '重点' },
+      { lat: 23.1280, lng: 113.2700, value: 80, name: '执信中学', district: '越秀', type: '中学', category: '重点' },
+      { lat: 23.1320, lng: 113.2750, value: 78, name: '广雅中学', district: '荔湾', type: '中学', category: '重点' },
+    ],
+    regions: [
+      { district: '越秀', value: 92 },
+      { district: '天河', value: 85 },
+      { district: '海珠', value: 78 },
+      { district: '荔湾', value: 75 },
+      { district: '白云', value: 65 },
+      { district: '番禺', value: 62 },
+      { district: '黄埔', value: 50 },
+      { district: '南沙', value: 35 },
+      { district: '增城', value: 30 },
+      { district: '花都', value: 32 },
+      { district: '从化', value: 25 },
+    ],
+  },
+  chartData: {
+    type: 'bar',
+    title: '广州各区教育医疗资源综合评分',
+    xField: 'district',
+    yField: 'value',
+    unit: '分',
+  },
+  stats: [
+    { label: '三甲医院', value: '38 家' },
+    { label: '普通高校', value: '83 所' },
+    { label: '双一流高校', value: '5 所' },
+  ],
+};
+
+export default eduHealth;
