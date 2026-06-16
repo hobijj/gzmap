@@ -1,0 +1,3443 @@
+{
+  "life": {
+    "housing": {
+      "id": "housing",
+      "name": "房价热力图",
+      "description": "广州各片区二手房均价分布，覆盖 11 区 60+ 板块",
+      "mapData": {
+        "type": "heatmap",
+        "points": [
+          {
+            "lat": 23.1255,
+            "lng": 113.332,
+            "value": 68210,
+            "name": "珠江新城",
+            "district": "天河"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.345,
+            "value": 65100,
+            "name": "体育中心",
+            "district": "天河"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.36,
+            "value": 58900,
+            "name": "东圃",
+            "district": "天河"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.32,
+            "value": 62300,
+            "name": "天河北",
+            "district": "天河"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.355,
+            "value": 57200,
+            "name": "车陂",
+            "district": "天河"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.338,
+            "value": 59800,
+            "name": "员村",
+            "district": "天河"
+          },
+          {
+            "lat": 23.14,
+            "lng": 113.33,
+            "value": 54800,
+            "name": "龙洞",
+            "district": "天河"
+          },
+          {
+            "lat": 23.122,
+            "lng": 113.37,
+            "value": 49500,
+            "name": "棠下",
+            "district": "天河"
+          },
+          {
+            "lat": 23.133,
+            "lng": 113.31,
+            "value": 61500,
+            "name": "五山",
+            "district": "天河"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.345,
+            "value": 56200,
+            "name": "黄村",
+            "district": "天河"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.338,
+            "value": 64200,
+            "name": "猎德",
+            "district": "天河"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.27,
+            "value": 61200,
+            "name": "北京路",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.28,
+            "value": 58900,
+            "name": "东山口",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.26,
+            "value": 54300,
+            "name": "淘金",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.119,
+            "lng": 113.275,
+            "value": 52100,
+            "name": "海珠广场",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.275,
+            "value": 56800,
+            "name": "小北",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.265,
+            "value": 59800,
+            "name": "公园前",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.126,
+            "lng": 113.285,
+            "value": 57500,
+            "name": "东湖",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.136,
+            "lng": 113.27,
+            "value": 53500,
+            "name": "建设六马路",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 52100,
+            "name": "琶洲",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.29,
+            "value": 47800,
+            "name": "江南西",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.34,
+            "value": 50300,
+            "name": "赤岗",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.095,
+            "lng": 113.275,
+            "value": 46200,
+            "name": "沙园",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.085,
+            "lng": 113.3,
+            "value": 45100,
+            "name": "东晓南",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.108,
+            "lng": 113.31,
+            "value": 48800,
+            "name": "客村",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.078,
+            "lng": 113.315,
+            "value": 43500,
+            "name": "沥滘",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.098,
+            "lng": 113.35,
+            "value": 51200,
+            "name": "琶洲东",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.24,
+            "value": 43200,
+            "name": "陈家祠",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.23,
+            "value": 39800,
+            "name": "芳村",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.238,
+            "value": 41500,
+            "name": "长寿路",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.122,
+            "lng": 113.235,
+            "value": 45600,
+            "name": "中山八",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.108,
+            "lng": 113.225,
+            "value": 38500,
+            "name": "鹤洞",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.112,
+            "lng": 113.24,
+            "value": 37200,
+            "name": "花地湾",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.27,
+            "value": 35600,
+            "name": "白云新城",
+            "district": "白云"
+          },
+          {
+            "lat": 23.18,
+            "lng": 113.3,
+            "value": 31200,
+            "name": "同和",
+            "district": "白云"
+          },
+          {
+            "lat": 23.2,
+            "lng": 113.26,
+            "value": 27800,
+            "name": "太和",
+            "district": "白云"
+          },
+          {
+            "lat": 23.168,
+            "lng": 113.255,
+            "value": 33800,
+            "name": "三元里",
+            "district": "白云"
+          },
+          {
+            "lat": 23.19,
+            "lng": 113.24,
+            "value": 29500,
+            "name": "石井",
+            "district": "白云"
+          },
+          {
+            "lat": 23.21,
+            "lng": 113.28,
+            "value": 26800,
+            "name": "嘉禾",
+            "district": "白云"
+          },
+          {
+            "lat": 23.155,
+            "lng": 113.285,
+            "value": 34500,
+            "name": "京溪",
+            "district": "白云"
+          },
+          {
+            "lat": 23.175,
+            "lng": 113.23,
+            "value": 28200,
+            "name": "江高",
+            "district": "白云"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.35,
+            "value": 38500,
+            "name": "万博",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.95,
+            "lng": 113.32,
+            "value": 34200,
+            "name": "市桥",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.92,
+            "lng": 113.38,
+            "value": 29800,
+            "name": "亚运城",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.96,
+            "lng": 113.34,
+            "value": 36500,
+            "name": "大石",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.93,
+            "lng": 113.31,
+            "value": 32500,
+            "name": "钟村",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.97,
+            "lng": 113.37,
+            "value": 35800,
+            "name": "南村",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.9,
+            "lng": 113.35,
+            "value": 27200,
+            "name": "石楼",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.915,
+            "lng": 113.4,
+            "value": 31200,
+            "name": "石碁",
+            "district": "番禺"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.45,
+            "value": 32500,
+            "name": "科学城",
+            "district": "黄埔"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.48,
+            "value": 26800,
+            "name": "知识城",
+            "district": "黄埔"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.42,
+            "value": 31200,
+            "name": "大沙地",
+            "district": "黄埔"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.46,
+            "value": 29500,
+            "name": "长岭居",
+            "district": "黄埔"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.5,
+            "value": 25500,
+            "name": "镇龙",
+            "district": "黄埔"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.44,
+            "value": 30800,
+            "name": "萝岗",
+            "district": "黄埔"
+          },
+          {
+            "lat": 22.75,
+            "lng": 113.58,
+            "value": 24500,
+            "name": "金洲",
+            "district": "南沙"
+          },
+          {
+            "lat": 22.78,
+            "lng": 113.55,
+            "value": 21800,
+            "name": "万顷沙",
+            "district": "南沙"
+          },
+          {
+            "lat": 22.8,
+            "lng": 113.56,
+            "value": 23200,
+            "name": "黄阁",
+            "district": "南沙"
+          },
+          {
+            "lat": 22.72,
+            "lng": 113.59,
+            "value": 22800,
+            "name": "南沙湾",
+            "district": "南沙"
+          },
+          {
+            "lat": 22.76,
+            "lng": 113.53,
+            "value": 20800,
+            "name": "横沥",
+            "district": "南沙"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.61,
+            "value": 19800,
+            "name": "新塘",
+            "district": "增城"
+          },
+          {
+            "lat": 23.29,
+            "lng": 113.83,
+            "value": 16500,
+            "name": "荔城",
+            "district": "增城"
+          },
+          {
+            "lat": 23.18,
+            "lng": 113.68,
+            "value": 18200,
+            "name": "永和",
+            "district": "增城"
+          },
+          {
+            "lat": 23.24,
+            "lng": 113.72,
+            "value": 17200,
+            "name": "朱村",
+            "district": "增城"
+          },
+          {
+            "lat": 23.4,
+            "lng": 113.21,
+            "value": 18200,
+            "name": "新华",
+            "district": "花都"
+          },
+          {
+            "lat": 23.38,
+            "lng": 113.18,
+            "value": 16800,
+            "name": "狮岭",
+            "district": "花都"
+          },
+          {
+            "lat": 23.42,
+            "lng": 113.24,
+            "value": 17500,
+            "name": "花山",
+            "district": "花都"
+          },
+          {
+            "lat": 23.55,
+            "lng": 113.58,
+            "value": 14500,
+            "name": "街口",
+            "district": "从化"
+          },
+          {
+            "lat": 23.52,
+            "lng": 113.62,
+            "value": 13200,
+            "name": "太平",
+            "district": "从化"
+          },
+          {
+            "lat": 23.58,
+            "lng": 113.55,
+            "value": 12800,
+            "name": "温泉",
+            "district": "从化"
+          }
+        ],
+        "regions": [
+          {
+            "district": "天河",
+            "value": 63100
+          },
+          {
+            "district": "越秀",
+            "value": 58100
+          },
+          {
+            "district": "海珠",
+            "value": 50100
+          },
+          {
+            "district": "荔湾",
+            "value": 41500
+          },
+          {
+            "district": "白云",
+            "value": 31500
+          },
+          {
+            "district": "番禺",
+            "value": 34200
+          },
+          {
+            "district": "黄埔",
+            "value": 29700
+          },
+          {
+            "district": "南沙",
+            "value": 23200
+          },
+          {
+            "district": "增城",
+            "value": 18200
+          },
+          {
+            "district": "花都",
+            "value": 18200
+          },
+          {
+            "district": "从化",
+            "value": 14500
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区二手房均价排行",
+        "xField": "district",
+        "yField": "value",
+        "unit": "元/㎡"
+      },
+      "stats": [
+        {
+          "label": "全市均价",
+          "value": "35,200 元/㎡"
+        },
+        {
+          "label": "最高区域",
+          "value": "天河区 63,100"
+        },
+        {
+          "label": "环比上月",
+          "value": "+2.3%",
+          "trend": "up"
+        }
+      ]
+    },
+    "food": {
+      "id": "food",
+      "name": "美食密度分布",
+      "description": "广州各区餐饮店铺密度与热门美食聚集地",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.125,
+            "lng": 113.27,
+            "value": 95,
+            "name": "北京路美食街",
+            "district": "越秀",
+            "category": "综合"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.265,
+            "value": 88,
+            "name": "惠福东路",
+            "district": "越秀",
+            "category": "小吃"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.275,
+            "value": 82,
+            "name": "文明路糖水街",
+            "district": "越秀",
+            "category": "甜品"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.24,
+            "value": 90,
+            "name": "上下九美食街",
+            "district": "荔湾",
+            "category": "综合"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.235,
+            "value": 78,
+            "name": "宝华路",
+            "district": "荔湾",
+            "category": "小吃"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.23,
+            "value": 75,
+            "name": "泮塘路",
+            "district": "荔湾",
+            "category": "粤菜"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.325,
+            "value": 85,
+            "name": "体育西路",
+            "district": "天河",
+            "category": "综合"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.332,
+            "value": 80,
+            "name": "珠江新城",
+            "district": "天河",
+            "category": "高端"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.35,
+            "value": 70,
+            "name": "棠下美食街",
+            "district": "天河",
+            "category": "夜市"
+          },
+          {
+            "lat": 23.095,
+            "lng": 113.29,
+            "value": 72,
+            "name": "江南西",
+            "district": "海珠",
+            "category": "综合"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 68,
+            "name": "琶醍",
+            "district": "海珠",
+            "category": "餐吧"
+          },
+          {
+            "lat": 23.085,
+            "lng": 113.27,
+            "value": 65,
+            "name": "宝业路食街",
+            "district": "海珠",
+            "category": "夜市"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.35,
+            "value": 62,
+            "name": "万博美食圈",
+            "district": "番禺",
+            "category": "综合"
+          },
+          {
+            "lat": 22.935,
+            "lng": 113.36,
+            "value": 58,
+            "name": "南村食街",
+            "district": "番禺",
+            "category": "农家菜"
+          },
+          {
+            "lat": 23.165,
+            "lng": 113.26,
+            "value": 55,
+            "name": "白云万达",
+            "district": "白云",
+            "category": "综合"
+          },
+          {
+            "lat": 23.175,
+            "lng": 113.28,
+            "value": 50,
+            "name": "远景路韩国街",
+            "district": "白云",
+            "category": "异国"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.45,
+            "value": 45,
+            "name": "科学城",
+            "district": "黄埔",
+            "category": "综合"
+          },
+          {
+            "lat": 22.75,
+            "lng": 113.58,
+            "value": 38,
+            "name": "南沙万达",
+            "district": "南沙",
+            "category": "综合"
+          },
+          {
+            "lat": 22.76,
+            "lng": 113.56,
+            "value": 35,
+            "name": "十九涌海鲜",
+            "district": "南沙",
+            "category": "海鲜"
+          }
+        ],
+        "regions": [
+          {
+            "district": "天河",
+            "value": 18200
+          },
+          {
+            "district": "越秀",
+            "value": 15600
+          },
+          {
+            "district": "海珠",
+            "value": 12800
+          },
+          {
+            "district": "荔湾",
+            "value": 11500
+          },
+          {
+            "district": "白云",
+            "value": 14300
+          },
+          {
+            "district": "番禺",
+            "value": 13500
+          },
+          {
+            "district": "黄埔",
+            "value": 7800
+          },
+          {
+            "district": "南沙",
+            "value": 4200
+          },
+          {
+            "district": "增城",
+            "value": 6500
+          },
+          {
+            "district": "花都",
+            "value": 5800
+          },
+          {
+            "district": "从化",
+            "value": 3200
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区餐饮店铺数量",
+        "xField": "district",
+        "yField": "value",
+        "unit": "家"
+      },
+      "stats": [
+        {
+          "label": "全市餐饮店铺",
+          "value": "约 115,000 家"
+        },
+        {
+          "label": "美食聚集地",
+          "value": "19 处"
+        },
+        {
+          "label": "「食在广州」",
+          "value": "实至名归 ✨"
+        }
+      ]
+    },
+    "parks": {
+      "id": "parks",
+      "name": "公园绿地覆盖",
+      "description": "广州主要公园、绿道和自然保护区的分布",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.142,
+            "lng": 113.305,
+            "value": 90,
+            "name": "白云山",
+            "district": "白云",
+            "area": "20.98 km²"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.29,
+            "value": 85,
+            "name": "越秀公园",
+            "district": "越秀",
+            "area": "0.69 km²"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.29,
+            "value": 80,
+            "name": "海珠湿地",
+            "district": "海珠",
+            "area": "8.69 km²"
+          },
+          {
+            "lat": 23.095,
+            "lng": 113.35,
+            "value": 75,
+            "name": "珠江公园",
+            "district": "天河",
+            "area": "0.28 km²"
+          },
+          {
+            "lat": 23.14,
+            "lng": 113.35,
+            "value": 78,
+            "name": "天河公园",
+            "district": "天河",
+            "area": "0.70 km²"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.24,
+            "value": 70,
+            "name": "荔湾湖公园",
+            "district": "荔湾",
+            "area": "0.27 km²"
+          },
+          {
+            "lat": 23.07,
+            "lng": 113.43,
+            "value": 82,
+            "name": "大学城中心湖",
+            "district": "番禺",
+            "area": "0.14 km²"
+          },
+          {
+            "lat": 22.93,
+            "lng": 113.38,
+            "value": 65,
+            "name": "大夫山",
+            "district": "番禺",
+            "area": "6.00 km²"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.37,
+            "value": 72,
+            "name": "火炉山",
+            "district": "天河",
+            "area": "6.00 km²"
+          },
+          {
+            "lat": 23.18,
+            "lng": 113.39,
+            "value": 68,
+            "name": "凤凰山",
+            "district": "天河",
+            "area": "10.00 km²"
+          },
+          {
+            "lat": 23.06,
+            "lng": 113.25,
+            "value": 60,
+            "name": "广州圆生态园",
+            "district": "荔湾",
+            "area": "0.15 km²"
+          },
+          {
+            "lat": 23.2,
+            "lng": 113.29,
+            "value": 55,
+            "name": "白云湖",
+            "district": "白云",
+            "area": "2.07 km²"
+          },
+          {
+            "lat": 22.75,
+            "lng": 113.56,
+            "value": 65,
+            "name": "南沙湿地",
+            "district": "南沙",
+            "area": "6.67 km²"
+          },
+          {
+            "lat": 23.3,
+            "lng": 113.6,
+            "value": 58,
+            "name": "流溪河森林公园",
+            "district": "从化",
+            "area": "88.00 km²"
+          },
+          {
+            "lat": 23.42,
+            "lng": 113.23,
+            "value": 55,
+            "name": "花都湖",
+            "district": "花都",
+            "area": "2.40 km²"
+          },
+          {
+            "lat": 22.92,
+            "lng": 113.5,
+            "value": 50,
+            "name": "莲花山",
+            "district": "番禺",
+            "area": "2.33 km²"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.45,
+            "value": 52,
+            "name": "萝岗香雪公园",
+            "district": "黄埔",
+            "area": "0.80 km²"
+          },
+          {
+            "lat": 23.26,
+            "lng": 113.62,
+            "value": 45,
+            "name": "增城白水寨",
+            "district": "增城",
+            "area": "20.00 km²"
+          }
+        ],
+        "regions": [
+          {
+            "district": "从化",
+            "value": 68
+          },
+          {
+            "district": "花都",
+            "value": 38
+          },
+          {
+            "district": "增城",
+            "value": 35
+          },
+          {
+            "district": "白云",
+            "value": 25
+          },
+          {
+            "district": "天河",
+            "value": 18
+          },
+          {
+            "district": "荔湾",
+            "value": 12
+          },
+          {
+            "district": "越秀",
+            "value": 10
+          },
+          {
+            "district": "番禺",
+            "value": 22
+          },
+          {
+            "district": "黄埔",
+            "value": 20
+          },
+          {
+            "district": "南沙",
+            "value": 28
+          },
+          {
+            "district": "海珠",
+            "value": 15
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区绿地覆盖率",
+        "xField": "district",
+        "yField": "value",
+        "unit": "%"
+      },
+      "stats": [
+        {
+          "label": "主要公园",
+          "value": "18+"
+        },
+        {
+          "label": "森林覆盖率",
+          "value": "42.3%"
+        },
+        {
+          "label": "「花城」",
+          "value": "名副其实 🌸"
+        }
+      ]
+    },
+    "eduHealth": {
+      "id": "eduHealth",
+      "name": "教育医疗资源",
+      "description": "广州三甲医院、重点中小学及高校分布",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.128,
+            "lng": 113.265,
+            "value": 95,
+            "name": "广东省人民医院",
+            "district": "越秀",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.27,
+            "value": 95,
+            "name": "中山大学附属第一医院",
+            "district": "越秀",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.26,
+            "value": 92,
+            "name": "广州医科大学附属第一医院",
+            "district": "越秀",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.32,
+            "value": 90,
+            "name": "中山三院",
+            "district": "天河",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.24,
+            "value": 88,
+            "name": "广州市第一人民医院",
+            "district": "荔湾",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.29,
+            "value": 88,
+            "name": "南方医科大学珠江医院",
+            "district": "海珠",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.27,
+            "value": 82,
+            "name": "南方医院",
+            "district": "白云",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 22.93,
+            "lng": 113.36,
+            "value": 80,
+            "name": "番禺中心医院",
+            "district": "番禺",
+            "type": "医院",
+            "category": "三甲"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.3,
+            "value": 90,
+            "name": "中山大学(南校区)",
+            "district": "海珠",
+            "type": "高校",
+            "category": "985/211"
+          },
+          {
+            "lat": 23.14,
+            "lng": 113.35,
+            "value": 88,
+            "name": "华南理工大学",
+            "district": "天河",
+            "type": "高校",
+            "category": "985/211"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.35,
+            "value": 86,
+            "name": "暨南大学",
+            "district": "天河",
+            "type": "高校",
+            "category": "211"
+          },
+          {
+            "lat": 23.14,
+            "lng": 113.36,
+            "value": 85,
+            "name": "华南师范大学",
+            "district": "天河",
+            "type": "高校",
+            "category": "211"
+          },
+          {
+            "lat": 23.07,
+            "lng": 113.43,
+            "value": 85,
+            "name": "广州大学城",
+            "district": "番禺",
+            "type": "高校群",
+            "category": "10+高校"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.28,
+            "value": 80,
+            "name": "华师附中",
+            "district": "天河",
+            "type": "中学",
+            "category": "重点"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.27,
+            "value": 80,
+            "name": "执信中学",
+            "district": "越秀",
+            "type": "中学",
+            "category": "重点"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.275,
+            "value": 78,
+            "name": "广雅中学",
+            "district": "荔湾",
+            "type": "中学",
+            "category": "重点"
+          }
+        ],
+        "regions": [
+          {
+            "district": "越秀",
+            "value": 92
+          },
+          {
+            "district": "天河",
+            "value": 85
+          },
+          {
+            "district": "海珠",
+            "value": 78
+          },
+          {
+            "district": "荔湾",
+            "value": 75
+          },
+          {
+            "district": "白云",
+            "value": 65
+          },
+          {
+            "district": "番禺",
+            "value": 62
+          },
+          {
+            "district": "黄埔",
+            "value": 50
+          },
+          {
+            "district": "南沙",
+            "value": 35
+          },
+          {
+            "district": "增城",
+            "value": 30
+          },
+          {
+            "district": "花都",
+            "value": 32
+          },
+          {
+            "district": "从化",
+            "value": 25
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区教育医疗资源综合评分",
+        "xField": "district",
+        "yField": "value",
+        "unit": "分"
+      },
+      "stats": [
+        {
+          "label": "三甲医院",
+          "value": "38 家"
+        },
+        {
+          "label": "普通高校",
+          "value": "83 所"
+        },
+        {
+          "label": "双一流高校",
+          "value": "5 所"
+        }
+      ]
+    }
+  },
+  "memory": {
+    "oldBrands": {
+      "id": "oldBrands",
+      "name": "广州老字号地图",
+      "description": "广州百年老店、中华老字号与驰名品牌分布",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.125,
+            "lng": 113.27,
+            "value": 98,
+            "name": "广州酒家（1935）",
+            "district": "越秀",
+            "category": "餐饮",
+            "history": "1935年创办"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.268,
+            "value": 96,
+            "name": "莲香楼（1889）",
+            "district": "越秀",
+            "category": "饼业",
+            "history": "1889年创办"
+          },
+          {
+            "lat": 23.126,
+            "lng": 113.272,
+            "value": 95,
+            "name": "陶陶居（1880）",
+            "district": "越秀",
+            "category": "茶楼",
+            "history": "1880年创办"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.265,
+            "value": 90,
+            "name": "致美斋（1608）",
+            "district": "越秀",
+            "category": "酱料",
+            "history": "1608年创办"
+          },
+          {
+            "lat": 23.124,
+            "lng": 113.268,
+            "value": 88,
+            "name": "陈李济（1600）",
+            "district": "越秀",
+            "category": "中医药",
+            "history": "1600年创办"
+          },
+          {
+            "lat": 23.127,
+            "lng": 113.275,
+            "value": 85,
+            "name": "泮溪酒家（1947）",
+            "district": "越秀",
+            "category": "餐饮",
+            "history": "1947年创办"
+          },
+          {
+            "lat": 23.129,
+            "lng": 113.263,
+            "value": 82,
+            "name": "王老吉（1828）",
+            "district": "越秀",
+            "category": "凉茶",
+            "history": "1828年创办"
+          },
+          {
+            "lat": 23.122,
+            "lng": 113.273,
+            "value": 80,
+            "name": "皇上皇（1940）",
+            "district": "越秀",
+            "category": "腊味",
+            "history": "1940年创办"
+          },
+          {
+            "lat": 23.1265,
+            "lng": 113.266,
+            "value": 78,
+            "name": "宝生园（1924）",
+            "district": "越秀",
+            "category": "蜂蜜",
+            "history": "1924年创办"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.24,
+            "value": 92,
+            "name": "莲香楼(第十甫)",
+            "district": "荔湾",
+            "category": "饼业",
+            "history": "1889年创办"
+          },
+          {
+            "lat": 23.116,
+            "lng": 113.238,
+            "value": 89,
+            "name": "南信牛奶甜品（1934）",
+            "district": "荔湾",
+            "category": "甜品",
+            "history": "1934年创办"
+          },
+          {
+            "lat": 23.117,
+            "lng": 113.242,
+            "value": 86,
+            "name": "顺记冰室（1930s）",
+            "district": "荔湾",
+            "category": "冰室",
+            "history": "1930年代创办"
+          },
+          {
+            "lat": 23.119,
+            "lng": 113.236,
+            "value": 83,
+            "name": "趣香饼家（1938）",
+            "district": "荔湾",
+            "category": "饼业",
+            "history": "1938年创办"
+          },
+          {
+            "lat": 23.114,
+            "lng": 113.24,
+            "value": 75,
+            "name": "何济公（1938）",
+            "district": "荔湾",
+            "category": "制药",
+            "history": "1938年创办"
+          },
+          {
+            "lat": 23.095,
+            "lng": 113.29,
+            "value": 72,
+            "name": "海珠涌边老茶楼群",
+            "district": "海珠",
+            "category": "茶楼",
+            "history": "清末民初"
+          },
+          {
+            "lat": 23.088,
+            "lng": 113.275,
+            "value": 68,
+            "name": "成珠楼（1746）",
+            "district": "海珠",
+            "category": "茶楼",
+            "history": "1746年创办"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.335,
+            "value": 60,
+            "name": "广州酒家(体育东)",
+            "district": "天河",
+            "category": "餐饮",
+            "history": "分店"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.35,
+            "value": 55,
+            "name": "沙湾古镇美食群",
+            "district": "番禺",
+            "category": "传统小吃",
+            "history": "明清至今"
+          }
+        ],
+        "regions": [
+          {
+            "district": "越秀",
+            "value": 32
+          },
+          {
+            "district": "荔湾",
+            "value": 28
+          },
+          {
+            "district": "海珠",
+            "value": 15
+          },
+          {
+            "district": "天河",
+            "value": 8
+          },
+          {
+            "district": "番禺",
+            "value": 12
+          },
+          {
+            "district": "黄埔",
+            "value": 5
+          },
+          {
+            "district": "白云",
+            "value": 6
+          },
+          {
+            "district": "南沙",
+            "value": 2
+          },
+          {
+            "district": "增城",
+            "value": 3
+          },
+          {
+            "district": "花都",
+            "value": 3
+          },
+          {
+            "district": "从化",
+            "value": 2
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区老字号数量分布",
+        "xField": "district",
+        "yField": "value",
+        "unit": "家"
+      },
+      "stats": [
+        {
+          "label": "中华老字号",
+          "value": "约 38 家"
+        },
+        {
+          "label": "百年老店",
+          "value": "17 家"
+        },
+        {
+          "label": "最老字号",
+          "value": "陈李济 1600年"
+        }
+      ]
+    },
+    "buildings": {
+      "id": "buildings",
+      "name": "历史建筑地图",
+      "description": "广州各级文物保护单位与历史建筑分布，穿越两千年建城史",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.128,
+            "lng": 113.265,
+            "value": 100,
+            "name": "镇海楼（1380）",
+            "district": "越秀",
+            "category": "全国重点文保",
+            "era": "明代"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.268,
+            "value": 98,
+            "name": "光孝寺",
+            "district": "越秀",
+            "category": "全国重点文保",
+            "era": "东晋"
+          },
+          {
+            "lat": 23.126,
+            "lng": 113.27,
+            "value": 98,
+            "name": "六榕寺花塔",
+            "district": "越秀",
+            "category": "全国重点文保",
+            "era": "南朝"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.272,
+            "value": 96,
+            "name": "中山纪念堂（1931）",
+            "district": "越秀",
+            "category": "全国重点文保",
+            "era": "民国"
+          },
+          {
+            "lat": 23.123,
+            "lng": 113.274,
+            "value": 95,
+            "name": "石室圣心大教堂（1888）",
+            "district": "越秀",
+            "category": "全国重点文保",
+            "era": "清代"
+          },
+          {
+            "lat": 23.129,
+            "lng": 113.267,
+            "value": 92,
+            "name": "南越王墓博物馆",
+            "district": "越秀",
+            "category": "世界遗产预备",
+            "era": "西汉"
+          },
+          {
+            "lat": 23.127,
+            "lng": 113.263,
+            "value": 90,
+            "name": "五仙观",
+            "district": "越秀",
+            "category": "省级文保",
+            "era": "明代"
+          },
+          {
+            "lat": 23.131,
+            "lng": 113.27,
+            "value": 88,
+            "name": "农讲所旧址",
+            "district": "越秀",
+            "category": "全国重点文保",
+            "era": "清代/近代"
+          },
+          {
+            "lat": 23.124,
+            "lng": 113.271,
+            "value": 85,
+            "name": "北京路千年古道遗址",
+            "district": "越秀",
+            "category": "市级文保",
+            "era": "唐宋元明清"
+          },
+          {
+            "lat": 23.119,
+            "lng": 113.266,
+            "value": 83,
+            "name": "天字码头",
+            "district": "越秀",
+            "category": "历史地标",
+            "era": "清代至今"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.238,
+            "value": 93,
+            "name": "陈家祠（1893）",
+            "district": "荔湾",
+            "category": "全国重点文保",
+            "era": "清代"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.242,
+            "value": 88,
+            "name": "沙面建筑群",
+            "district": "荔湾",
+            "category": "全国重点文保",
+            "era": "清末民初"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.235,
+            "value": 85,
+            "name": "西关大屋保护区",
+            "district": "荔湾",
+            "category": "历史文化街区",
+            "era": "清末民初"
+          },
+          {
+            "lat": 23.117,
+            "lng": 113.24,
+            "value": 82,
+            "name": "八和会馆",
+            "district": "荔湾",
+            "category": "市级文保",
+            "era": "清代"
+          },
+          {
+            "lat": 23.113,
+            "lng": 113.238,
+            "value": 78,
+            "name": "粤海关旧址（1916）",
+            "district": "荔湾",
+            "category": "全国重点文保",
+            "era": "民国"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.3,
+            "value": 85,
+            "name": "中山大学旧址",
+            "district": "海珠",
+            "category": "省级文保",
+            "era": "民国"
+          },
+          {
+            "lat": 23.088,
+            "lng": 113.27,
+            "value": 80,
+            "name": "太古仓（1927）",
+            "district": "海珠",
+            "category": "市级文保",
+            "era": "民国"
+          },
+          {
+            "lat": 23.102,
+            "lng": 113.31,
+            "value": 78,
+            "name": "琶洲塔（1600）",
+            "district": "海珠",
+            "category": "省级文保",
+            "era": "明代"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.33,
+            "value": 62,
+            "name": "石门禅院",
+            "district": "天河",
+            "category": "区级文保",
+            "era": "唐代"
+          },
+          {
+            "lat": 22.935,
+            "lng": 113.32,
+            "value": 90,
+            "name": "沙湾古镇",
+            "district": "番禺",
+            "category": "中国历史文化名镇",
+            "era": "明清"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.37,
+            "value": 85,
+            "name": "余荫山房（1871）",
+            "district": "番禺",
+            "category": "全国重点文保",
+            "era": "清代"
+          },
+          {
+            "lat": 22.92,
+            "lng": 113.4,
+            "value": 80,
+            "name": "宝墨园",
+            "district": "番禺",
+            "category": "省级文保",
+            "era": "清代重建"
+          },
+          {
+            "lat": 23.088,
+            "lng": 113.46,
+            "value": 92,
+            "name": "黄埔军校旧址",
+            "district": "黄埔",
+            "category": "全国重点文保",
+            "era": "民国"
+          },
+          {
+            "lat": 23.095,
+            "lng": 113.47,
+            "value": 78,
+            "name": "南海神庙（594）",
+            "district": "黄埔",
+            "category": "全国重点文保",
+            "era": "隋代"
+          },
+          {
+            "lat": 23.165,
+            "lng": 113.29,
+            "value": 75,
+            "name": "三元里抗英旧址",
+            "district": "白云",
+            "category": "全国重点文保",
+            "era": "清代"
+          },
+          {
+            "lat": 22.76,
+            "lng": 113.6,
+            "value": 72,
+            "name": "南沙天后宫",
+            "district": "南沙",
+            "category": "区级文保",
+            "era": "现代重建"
+          },
+          {
+            "lat": 23.38,
+            "lng": 113.2,
+            "value": 70,
+            "name": "洪秀全故居",
+            "district": "花都",
+            "category": "全国重点文保",
+            "era": "清代"
+          }
+        ],
+        "regions": [
+          {
+            "district": "越秀",
+            "value": 45
+          },
+          {
+            "district": "荔湾",
+            "value": 38
+          },
+          {
+            "district": "海珠",
+            "value": 22
+          },
+          {
+            "district": "番禺",
+            "value": 25
+          },
+          {
+            "district": "黄埔",
+            "value": 18
+          },
+          {
+            "district": "天河",
+            "value": 10
+          },
+          {
+            "district": "白云",
+            "value": 12
+          },
+          {
+            "district": "花都",
+            "value": 10
+          },
+          {
+            "district": "南沙",
+            "value": 5
+          },
+          {
+            "district": "增城",
+            "value": 8
+          },
+          {
+            "district": "从化",
+            "value": 5
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区重点文物保护单位数量",
+        "xField": "district",
+        "yField": "value",
+        "unit": "处"
+      },
+      "stats": [
+        {
+          "label": "全国重点文保",
+          "value": "33 处"
+        },
+        {
+          "label": "省级文保",
+          "value": "48 处"
+        },
+        {
+          "label": "建城历史",
+          "value": "2200+ 年"
+        }
+      ]
+    },
+    "cityChange": {
+      "id": "cityChange",
+      "name": "城市版图变迁",
+      "description": "广州从秦代任嚣城到现代大都市的版图扩张历程",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.1255,
+            "lng": 113.265,
+            "value": 95,
+            "name": "秦·任嚣城（前214）",
+            "district": "越秀",
+            "category": "城墙遗址",
+            "era": "秦代"
+          },
+          {
+            "lat": 23.126,
+            "lng": 113.267,
+            "value": 92,
+            "name": "汉·赵佗城",
+            "district": "越秀",
+            "category": "城墙遗址",
+            "era": "汉代"
+          },
+          {
+            "lat": 23.1275,
+            "lng": 113.268,
+            "value": 90,
+            "name": "唐·广州都督府",
+            "district": "越秀",
+            "category": "行政中心",
+            "era": "唐代"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.266,
+            "value": 93,
+            "name": "宋·广州子城",
+            "district": "越秀",
+            "category": "城墙遗址",
+            "era": "宋代"
+          },
+          {
+            "lat": 23.124,
+            "lng": 113.272,
+            "value": 88,
+            "name": "明·广州府城",
+            "district": "越秀",
+            "category": "城墙遗址",
+            "era": "明代"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.24,
+            "value": 85,
+            "name": "清·西关商埠区",
+            "district": "荔湾",
+            "category": "商业扩张",
+            "era": "清代"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.242,
+            "value": 83,
+            "name": "民国·沙面租界",
+            "district": "荔湾",
+            "category": "租界区",
+            "era": "民国"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 80,
+            "name": "民国·河南开发",
+            "district": "海珠",
+            "category": "城市扩张",
+            "era": "民国"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.27,
+            "value": 75,
+            "name": "新中国·白云新城",
+            "district": "白云",
+            "category": "新区开发",
+            "era": "1950s-"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.34,
+            "value": 82,
+            "name": "改革开放·天河新城",
+            "district": "天河",
+            "category": "新区开发",
+            "era": "1980s-"
+          },
+          {
+            "lat": 23.1255,
+            "lng": 113.332,
+            "value": 90,
+            "name": "21世纪·珠江新城CBD",
+            "district": "天河",
+            "category": "CBD",
+            "era": "2000s-"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.45,
+            "value": 72,
+            "name": "科学城（1998-）",
+            "district": "黄埔",
+            "category": "产业新城",
+            "era": "1990s-"
+          },
+          {
+            "lat": 22.75,
+            "lng": 113.58,
+            "value": 70,
+            "name": "南沙新区（2012-）",
+            "district": "南沙",
+            "category": "国家级新区",
+            "era": "2010s-"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.48,
+            "value": 68,
+            "name": "知识城（2010-）",
+            "district": "黄埔",
+            "category": "中新合作",
+            "era": "2010s-"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.35,
+            "value": 75,
+            "name": "番禺撤市设区（2000）",
+            "district": "番禺",
+            "category": "行政区划",
+            "era": "2000年"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.61,
+            "value": 65,
+            "name": "增城撤市设区（2014）",
+            "district": "增城",
+            "category": "行政区划",
+            "era": "2014年"
+          },
+          {
+            "lat": 23.4,
+            "lng": 113.21,
+            "value": 62,
+            "name": "花都撤市设区（2000）",
+            "district": "花都",
+            "category": "行政区划",
+            "era": "2000年"
+          },
+          {
+            "lat": 23.55,
+            "lng": 113.58,
+            "value": 58,
+            "name": "从化撤市设区（2014）",
+            "district": "从化",
+            "category": "行政区划",
+            "era": "2014年"
+          }
+        ],
+        "regions": [
+          {
+            "district": "越秀",
+            "value": 15
+          },
+          {
+            "district": "荔湾",
+            "value": 59
+          },
+          {
+            "district": "海珠",
+            "value": 90
+          },
+          {
+            "district": "天河",
+            "value": 96
+          },
+          {
+            "district": "白云",
+            "value": 796
+          },
+          {
+            "district": "番禺",
+            "value": 530
+          },
+          {
+            "district": "黄埔",
+            "value": 484
+          },
+          {
+            "district": "南沙",
+            "value": 803
+          },
+          {
+            "district": "增城",
+            "value": 1616
+          },
+          {
+            "district": "花都",
+            "value": 970
+          },
+          {
+            "district": "从化",
+            "value": 1975
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区面积对比 (km²)",
+        "xField": "district",
+        "yField": "value",
+        "unit": "km²"
+      },
+      "stats": [
+        {
+          "label": "建城历史",
+          "value": "2200+ 年"
+        },
+        {
+          "label": "现辖面积",
+          "value": "7,434 km²"
+        },
+        {
+          "label": "从秦城到都会",
+          "value": "面积增长1000×"
+        }
+      ]
+    },
+    "intangible": {
+      "id": "intangible",
+      "name": "非物质文化遗产",
+      "description": "广州国家级、省级非遗项目传承基地和文化空间分布",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.125,
+            "lng": 113.27,
+            "value": 98,
+            "name": "粤剧艺术博物馆",
+            "district": "越秀",
+            "category": "人类非遗",
+            "type": "粤剧"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.267,
+            "value": 96,
+            "name": "广东音乐发源地",
+            "district": "越秀",
+            "category": "国家级非遗",
+            "type": "广东音乐"
+          },
+          {
+            "lat": 23.127,
+            "lng": 113.272,
+            "value": 90,
+            "name": "广彩传承基地",
+            "district": "越秀",
+            "category": "国家级非遗",
+            "type": "广彩瓷"
+          },
+          {
+            "lat": 23.129,
+            "lng": 113.265,
+            "value": 88,
+            "name": "广绣工作室",
+            "district": "越秀",
+            "category": "国家级非遗",
+            "type": "广绣"
+          },
+          {
+            "lat": 23.124,
+            "lng": 113.273,
+            "value": 85,
+            "name": "广州牙雕传承中心",
+            "district": "越秀",
+            "category": "国家级非遗",
+            "type": "象牙雕刻"
+          },
+          {
+            "lat": 23.1265,
+            "lng": 113.269,
+            "value": 80,
+            "name": "岭南古琴艺术馆",
+            "district": "越秀",
+            "category": "国家级非遗",
+            "type": "古琴艺术"
+          },
+          {
+            "lat": 23.122,
+            "lng": 113.275,
+            "value": 78,
+            "name": "迎春花市（教育路）",
+            "district": "越秀",
+            "category": "省级非遗",
+            "type": "迎春花市"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.24,
+            "value": 95,
+            "name": "广雕工艺街",
+            "district": "荔湾",
+            "category": "国家级非遗",
+            "type": "玉雕/木雕"
+          },
+          {
+            "lat": 23.116,
+            "lng": 113.238,
+            "value": 88,
+            "name": "西关打铜技艺传习所",
+            "district": "荔湾",
+            "category": "省级非遗",
+            "type": "打铜技艺"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.235,
+            "value": 82,
+            "name": "广式家具制作基地",
+            "district": "荔湾",
+            "category": "国家级非遗",
+            "type": "广式硬木家具"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.242,
+            "value": 78,
+            "name": "沙面·十三行遗韵",
+            "district": "荔湾",
+            "category": "历史记忆",
+            "type": "海上丝绸之路"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 85,
+            "name": "广交会旧址（琶洲）",
+            "district": "海珠",
+            "category": "现代遗产",
+            "type": "商贸传统"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.285,
+            "value": 75,
+            "name": "龙舟文化传承基地",
+            "district": "海珠",
+            "category": "省级非遗",
+            "type": "扒龙舟"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.345,
+            "value": 72,
+            "name": "天河乞巧文化节",
+            "district": "天河",
+            "category": "国家级非遗",
+            "type": "七夕乞巧"
+          },
+          {
+            "lat": 22.935,
+            "lng": 113.32,
+            "value": 92,
+            "name": "沙湾飘色传承基地",
+            "district": "番禺",
+            "category": "省级非遗",
+            "type": "飘色"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.37,
+            "value": 88,
+            "name": "广东音乐（沙湾）",
+            "district": "番禺",
+            "category": "国家级非遗",
+            "type": "广东音乐"
+          },
+          {
+            "lat": 22.95,
+            "lng": 113.34,
+            "value": 80,
+            "name": "沙坑醒狮",
+            "district": "番禺",
+            "category": "省级非遗",
+            "type": "醒狮"
+          },
+          {
+            "lat": 23.088,
+            "lng": 113.46,
+            "value": 82,
+            "name": "波罗诞庙会",
+            "district": "黄埔",
+            "category": "国家级非遗",
+            "type": "民俗"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.27,
+            "value": 70,
+            "name": "白云山重阳登高",
+            "district": "白云",
+            "category": "市级非遗",
+            "type": "民俗"
+          },
+          {
+            "lat": 23.55,
+            "lng": 113.58,
+            "value": 65,
+            "name": "从化水族舞",
+            "district": "从化",
+            "category": "省级非遗",
+            "type": "民间舞蹈"
+          }
+        ],
+        "regions": [
+          {
+            "district": "越秀",
+            "value": 25
+          },
+          {
+            "district": "荔湾",
+            "value": 22
+          },
+          {
+            "district": "海珠",
+            "value": 15
+          },
+          {
+            "district": "番禺",
+            "value": 18
+          },
+          {
+            "district": "黄埔",
+            "value": 10
+          },
+          {
+            "district": "天河",
+            "value": 8
+          },
+          {
+            "district": "白云",
+            "value": 6
+          },
+          {
+            "district": "花都",
+            "value": 5
+          },
+          {
+            "district": "从化",
+            "value": 5
+          },
+          {
+            "district": "增城",
+            "value": 4
+          },
+          {
+            "district": "南沙",
+            "value": 3
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区非遗项目数量分布",
+        "xField": "district",
+        "yField": "value",
+        "unit": "项"
+      },
+      "stats": [
+        {
+          "label": "人类非遗",
+          "value": "2 项"
+        },
+        {
+          "label": "国家级非遗",
+          "value": "21 项"
+        },
+        {
+          "label": "省级非遗",
+          "value": "95 项"
+        }
+      ]
+    }
+  },
+  "pulse": {
+    "metro": {
+      "id": "metro",
+      "name": "地铁线路流量",
+      "description": "广州地铁各线路客流强度与主要站点日均客流量",
+      "mapData": {
+        "type": "heatmap",
+        "points": [
+          {
+            "lat": 23.128,
+            "lng": 113.248,
+            "value": 85000,
+            "name": "西塱",
+            "district": "荔湾",
+            "line": "1号线"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.24,
+            "value": 92000,
+            "name": "陈家祠",
+            "district": "荔湾",
+            "line": "1号线"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.258,
+            "value": 128000,
+            "name": "公园前",
+            "district": "越秀",
+            "line": "1号线/2号线"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.275,
+            "value": 115000,
+            "name": "东山口",
+            "district": "越秀",
+            "line": "1号线/6号线"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.32,
+            "value": 155000,
+            "name": "体育西路",
+            "district": "天河",
+            "line": "1号线/3号线"
+          },
+          {
+            "lat": 23.1255,
+            "lng": 113.332,
+            "value": 118000,
+            "name": "珠江新城",
+            "district": "天河",
+            "line": "3号线/5号线"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.27,
+            "value": 72000,
+            "name": "白云公园",
+            "district": "白云",
+            "line": "2号线"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.265,
+            "value": 95000,
+            "name": "纪念堂",
+            "district": "越秀",
+            "line": "2号线"
+          },
+          {
+            "lat": 23.119,
+            "lng": 113.275,
+            "value": 105000,
+            "name": "海珠广场",
+            "district": "越秀",
+            "line": "2号线/6号线"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.29,
+            "value": 88000,
+            "name": "江南西",
+            "district": "海珠",
+            "line": "2号线"
+          },
+          {
+            "lat": 22.95,
+            "lng": 113.32,
+            "value": 65000,
+            "name": "市桥",
+            "district": "番禺",
+            "line": "3号线"
+          },
+          {
+            "lat": 23.17,
+            "lng": 113.25,
+            "value": 78000,
+            "name": "三元里",
+            "district": "白云",
+            "line": "2号线"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.345,
+            "value": 142000,
+            "name": "体育中心",
+            "district": "天河",
+            "line": "3号线"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.355,
+            "value": 96000,
+            "name": "车陂南",
+            "district": "天河",
+            "line": "3号线/4号线"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.32,
+            "value": 72000,
+            "name": "番禺广场",
+            "district": "番禺",
+            "line": "3号线"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.32,
+            "value": 138000,
+            "name": "林和西",
+            "district": "天河",
+            "line": "3号线"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.315,
+            "value": 125000,
+            "name": "广州东站",
+            "district": "天河",
+            "line": "1号线/3号线"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.34,
+            "value": 108000,
+            "name": "客村",
+            "district": "海珠",
+            "line": "3号线/8号线"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.338,
+            "value": 112000,
+            "name": "猎德",
+            "district": "天河",
+            "line": "5号线"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.338,
+            "value": 98000,
+            "name": "员村",
+            "district": "天河",
+            "line": "5号线/21号线"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 85000,
+            "name": "琶洲",
+            "district": "海珠",
+            "line": "8号线"
+          },
+          {
+            "lat": 23.108,
+            "lng": 113.26,
+            "value": 78000,
+            "name": "中山八",
+            "district": "荔湾",
+            "line": "5号线"
+          },
+          {
+            "lat": 23.095,
+            "lng": 113.275,
+            "value": 82000,
+            "name": "沙园",
+            "district": "海珠",
+            "line": "8号线"
+          },
+          {
+            "lat": 23.088,
+            "lng": 113.3,
+            "value": 75000,
+            "name": "东晓南",
+            "district": "海珠",
+            "line": "2号线"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.45,
+            "value": 45000,
+            "name": "科学城",
+            "district": "黄埔",
+            "line": "21号线"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.33,
+            "value": 68000,
+            "name": "大剧院",
+            "district": "天河",
+            "line": "APM线"
+          }
+        ],
+        "regions": [
+          {
+            "district": "天河",
+            "value": 185
+          },
+          {
+            "district": "越秀",
+            "value": 162
+          },
+          {
+            "district": "海珠",
+            "value": 128
+          },
+          {
+            "district": "荔湾",
+            "value": 105
+          },
+          {
+            "district": "白云",
+            "value": 88
+          },
+          {
+            "district": "番禺",
+            "value": 72
+          },
+          {
+            "district": "黄埔",
+            "value": 45
+          },
+          {
+            "district": "南沙",
+            "value": 18
+          },
+          {
+            "district": "增城",
+            "value": 22
+          },
+          {
+            "district": "花都",
+            "value": 20
+          },
+          {
+            "district": "从化",
+            "value": 15
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州地铁日均客流量（万人次/区）",
+        "xField": "district",
+        "yField": "value",
+        "unit": "万人次"
+      },
+      "stats": [
+        {
+          "label": "运营线路",
+          "value": "16 条"
+        },
+        {
+          "label": "日均客流",
+          "value": "910 万人次"
+        },
+        {
+          "label": "最忙线路",
+          "value": "3号线"
+        }
+      ]
+    },
+    "density": {
+      "id": "density",
+      "name": "人口密度分布",
+      "description": "广州各区常住人口密度热力图与人口结构",
+      "mapData": {
+        "type": "heatmap",
+        "points": [
+          {
+            "lat": 23.128,
+            "lng": 113.27,
+            "value": 34200,
+            "name": "北京街道",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.28,
+            "value": 31500,
+            "name": "大东街道",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.26,
+            "value": 29800,
+            "name": "华乐街道",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.119,
+            "lng": 113.275,
+            "value": 32100,
+            "name": "人民街道",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.275,
+            "value": 28500,
+            "name": "洪桥街道",
+            "district": "越秀"
+          },
+          {
+            "lat": 23.1255,
+            "lng": 113.332,
+            "value": 25200,
+            "name": "冼村街道",
+            "district": "天河"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.345,
+            "value": 23800,
+            "name": "天河南街道",
+            "district": "天河"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.36,
+            "value": 18500,
+            "name": "车陂街道",
+            "district": "天河"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.32,
+            "value": 22800,
+            "name": "林和街道",
+            "district": "天河"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.338,
+            "value": 19500,
+            "name": "员村街道",
+            "district": "天河"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 15800,
+            "name": "琶洲街道",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.29,
+            "value": 19500,
+            "name": "江南中街道",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.34,
+            "value": 17200,
+            "name": "赤岗街道",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.095,
+            "lng": 113.275,
+            "value": 18800,
+            "name": "沙园街道",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.078,
+            "lng": 113.315,
+            "value": 12500,
+            "name": "南洲街道",
+            "district": "海珠"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.24,
+            "value": 23200,
+            "name": "金花街道",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.23,
+            "value": 16800,
+            "name": "冲口街道",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.238,
+            "value": 21500,
+            "name": "逢源街道",
+            "district": "荔湾"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.27,
+            "value": 12500,
+            "name": "景泰街道",
+            "district": "白云"
+          },
+          {
+            "lat": 23.18,
+            "lng": 113.3,
+            "value": 8500,
+            "name": "同和街道",
+            "district": "白云"
+          },
+          {
+            "lat": 23.2,
+            "lng": 113.26,
+            "value": 6800,
+            "name": "太和镇",
+            "district": "白云"
+          },
+          {
+            "lat": 23.168,
+            "lng": 113.255,
+            "value": 15200,
+            "name": "三元里街道",
+            "district": "白云"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.35,
+            "value": 11200,
+            "name": "南村镇",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.95,
+            "lng": 113.32,
+            "value": 13500,
+            "name": "市桥街道",
+            "district": "番禺"
+          },
+          {
+            "lat": 22.92,
+            "lng": 113.38,
+            "value": 7200,
+            "name": "石楼镇",
+            "district": "番禺"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.45,
+            "value": 8500,
+            "name": "联和街道",
+            "district": "黄埔"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.42,
+            "value": 12500,
+            "name": "黄埔街道",
+            "district": "黄埔"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.48,
+            "value": 4800,
+            "name": "九佛街道",
+            "district": "黄埔"
+          },
+          {
+            "lat": 22.75,
+            "lng": 113.58,
+            "value": 5500,
+            "name": "南沙街道",
+            "district": "南沙"
+          },
+          {
+            "lat": 22.78,
+            "lng": 113.55,
+            "value": 2800,
+            "name": "万顷沙镇",
+            "district": "南沙"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.61,
+            "value": 6500,
+            "name": "新塘镇",
+            "district": "增城"
+          },
+          {
+            "lat": 23.29,
+            "lng": 113.83,
+            "value": 4200,
+            "name": "荔城街道",
+            "district": "增城"
+          },
+          {
+            "lat": 23.4,
+            "lng": 113.21,
+            "value": 3800,
+            "name": "新华街道",
+            "district": "花都"
+          },
+          {
+            "lat": 23.55,
+            "lng": 113.58,
+            "value": 1800,
+            "name": "街口街道",
+            "district": "从化"
+          }
+        ],
+        "regions": [
+          {
+            "district": "越秀",
+            "value": 34200
+          },
+          {
+            "district": "天河",
+            "value": 22800
+          },
+          {
+            "district": "荔湾",
+            "value": 20500
+          },
+          {
+            "district": "海珠",
+            "value": 17200
+          },
+          {
+            "district": "白云",
+            "value": 10800
+          },
+          {
+            "district": "番禺",
+            "value": 8500
+          },
+          {
+            "district": "黄埔",
+            "value": 6200
+          },
+          {
+            "district": "南沙",
+            "value": 3200
+          },
+          {
+            "district": "增城",
+            "value": 2800
+          },
+          {
+            "district": "花都",
+            "value": 2500
+          },
+          {
+            "district": "从化",
+            "value": 1500
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区人口密度（人/km²）",
+        "xField": "district",
+        "yField": "value",
+        "unit": "人/km²"
+      },
+      "stats": [
+        {
+          "label": "常住人口",
+          "value": "1,882 万"
+        },
+        {
+          "label": "人口密度最高",
+          "value": "越秀区 34,200"
+        },
+        {
+          "label": "全市密度",
+          "value": "2,530 人/km²"
+        }
+      ]
+    },
+    "business": {
+      "id": "business",
+      "name": "商圈活跃度",
+      "description": "广州主要商圈热力指数与商业体量分布",
+      "mapData": {
+        "type": "scatter",
+        "points": [
+          {
+            "lat": 23.1255,
+            "lng": 113.332,
+            "value": 98,
+            "name": "珠江新城商圈",
+            "district": "天河",
+            "type": "CBD",
+            "scale": "超大型"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.345,
+            "value": 96,
+            "name": "体育中心商圈",
+            "district": "天河",
+            "type": "综合商业",
+            "scale": "超大型"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.32,
+            "value": 88,
+            "name": "天河北商圈",
+            "district": "天河",
+            "type": "商务办公",
+            "scale": "大型"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.355,
+            "value": 75,
+            "name": "车陂商圈",
+            "district": "天河",
+            "type": "社区商业",
+            "scale": "中型"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.34,
+            "value": 68,
+            "name": "员村红专厂",
+            "district": "天河",
+            "type": "文创园区",
+            "scale": "小型"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.27,
+            "value": 90,
+            "name": "北京路商圈",
+            "district": "越秀",
+            "type": "步行街",
+            "scale": "超大型"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.26,
+            "value": 82,
+            "name": "淘金商圈",
+            "district": "越秀",
+            "type": "高端商业",
+            "scale": "大型"
+          },
+          {
+            "lat": 23.119,
+            "lng": 113.275,
+            "value": 78,
+            "name": "海珠广场商圈",
+            "district": "越秀",
+            "type": "批发零售",
+            "scale": "中型"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.28,
+            "value": 72,
+            "name": "东山口商圈",
+            "district": "越秀",
+            "type": "文艺商业",
+            "scale": "小型"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.24,
+            "value": 85,
+            "name": "上下九商圈",
+            "district": "荔湾",
+            "type": "步行街",
+            "scale": "大型"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.23,
+            "value": 65,
+            "name": "芳村商圈",
+            "district": "荔湾",
+            "type": "社区商业",
+            "scale": "中型"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 92,
+            "name": "琶洲商圈",
+            "district": "海珠",
+            "type": "会展+电商",
+            "scale": "超大型"
+          },
+          {
+            "lat": 23.09,
+            "lng": 113.29,
+            "value": 80,
+            "name": "江南西商圈",
+            "district": "海珠",
+            "type": "社区商业",
+            "scale": "大型"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.305,
+            "value": 75,
+            "name": "广州塔商圈",
+            "district": "海珠",
+            "type": "文旅商业",
+            "scale": "中型"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.27,
+            "value": 78,
+            "name": "白云新城商圈",
+            "district": "白云",
+            "type": "新区商业",
+            "scale": "大型"
+          },
+          {
+            "lat": 23.168,
+            "lng": 113.255,
+            "value": 65,
+            "name": "三元里商圈",
+            "district": "白云",
+            "type": "批发市场",
+            "scale": "中型"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.35,
+            "value": 82,
+            "name": "万博商圈",
+            "district": "番禺",
+            "type": "新区商业",
+            "scale": "大型"
+          },
+          {
+            "lat": 22.95,
+            "lng": 113.32,
+            "value": 70,
+            "name": "市桥商圈",
+            "district": "番禺",
+            "type": "社区商业",
+            "scale": "中型"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.45,
+            "value": 72,
+            "name": "科学城商圈",
+            "district": "黄埔",
+            "type": "产城融合",
+            "scale": "中型"
+          },
+          {
+            "lat": 22.75,
+            "lng": 113.58,
+            "value": 58,
+            "name": "南沙万达商圈",
+            "district": "南沙",
+            "type": "新区商业",
+            "scale": "中型"
+          },
+          {
+            "lat": 23.13,
+            "lng": 113.61,
+            "value": 55,
+            "name": "新塘商圈",
+            "district": "增城",
+            "type": "社区商业",
+            "scale": "中型"
+          }
+        ],
+        "regions": [
+          {
+            "district": "天河",
+            "value": 95
+          },
+          {
+            "district": "越秀",
+            "value": 88
+          },
+          {
+            "district": "海珠",
+            "value": 82
+          },
+          {
+            "district": "荔湾",
+            "value": 75
+          },
+          {
+            "district": "白云",
+            "value": 68
+          },
+          {
+            "district": "番禺",
+            "value": 65
+          },
+          {
+            "district": "黄埔",
+            "value": 52
+          },
+          {
+            "district": "南沙",
+            "value": 35
+          },
+          {
+            "district": "增城",
+            "value": 32
+          },
+          {
+            "district": "花都",
+            "value": 30
+          },
+          {
+            "district": "从化",
+            "value": 22
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区商圈活跃度指数",
+        "xField": "district",
+        "yField": "value",
+        "unit": "分"
+      },
+      "stats": [
+        {
+          "label": "超大型商圈",
+          "value": "5 个"
+        },
+        {
+          "label": "最大商圈",
+          "value": "天河CBD"
+        },
+        {
+          "label": "社消总额",
+          "value": "破万亿"
+        }
+      ]
+    },
+    "traffic": {
+      "id": "traffic",
+      "name": "交通拥堵态势",
+      "description": "广州主要拥堵路段与交通黑点实时态势分布",
+      "mapData": {
+        "type": "heatmap",
+        "points": [
+          {
+            "lat": 23.13,
+            "lng": 113.345,
+            "value": 92,
+            "name": "天河路-体育东路口",
+            "district": "天河",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.1255,
+            "lng": 113.332,
+            "value": 88,
+            "name": "花城大道-华夏路口",
+            "district": "天河",
+            "type": "常发拥堵",
+            "peak": "晚高峰"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.355,
+            "value": 85,
+            "name": "中山大道-车陂路口",
+            "district": "天河",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.135,
+            "lng": 113.318,
+            "value": 82,
+            "name": "广州大道中",
+            "district": "天河",
+            "type": "常发拥堵",
+            "peak": "全天"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.338,
+            "value": 75,
+            "name": "黄埔大道-员村段",
+            "district": "天河",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.128,
+            "lng": 113.27,
+            "value": 78,
+            "name": "北京路-中山五路口",
+            "district": "越秀",
+            "type": "常发拥堵",
+            "peak": "周末/节假日"
+          },
+          {
+            "lat": 23.125,
+            "lng": 113.258,
+            "value": 80,
+            "name": "环市东路-小北段",
+            "district": "越秀",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.132,
+            "lng": 113.275,
+            "value": 72,
+            "name": "东风东路-东濠涌",
+            "district": "越秀",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.34,
+            "value": 82,
+            "name": "新港东路-赤岗段",
+            "district": "海珠",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.1,
+            "lng": 113.32,
+            "value": 75,
+            "name": "琶洲大桥南",
+            "district": "海珠",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.088,
+            "lng": 113.31,
+            "value": 78,
+            "name": "广州大道南",
+            "district": "海珠",
+            "type": "常发拥堵",
+            "peak": "全天"
+          },
+          {
+            "lat": 23.12,
+            "lng": 113.24,
+            "value": 65,
+            "name": "中山八路-黄沙大道",
+            "district": "荔湾",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.165,
+            "lng": 113.27,
+            "value": 68,
+            "name": "白云大道",
+            "district": "白云",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.16,
+            "lng": 113.258,
+            "value": 62,
+            "name": "机场路",
+            "district": "白云",
+            "type": "偶发拥堵",
+            "peak": "节假日"
+          },
+          {
+            "lat": 22.94,
+            "lng": 113.35,
+            "value": 65,
+            "name": "番禺大道-万博段",
+            "district": "番禺",
+            "type": "常发拥堵",
+            "peak": "晚高峰"
+          },
+          {
+            "lat": 22.95,
+            "lng": 113.32,
+            "value": 58,
+            "name": "市桥大桥",
+            "district": "番禺",
+            "type": "偶发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.115,
+            "lng": 113.268,
+            "value": 90,
+            "name": "海珠桥",
+            "district": "越秀/海珠",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.118,
+            "lng": 113.258,
+            "value": 85,
+            "name": "人民桥",
+            "district": "荔湾/海珠",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.11,
+            "lng": 113.31,
+            "value": 88,
+            "name": "猎德大桥",
+            "district": "天河/海珠",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.108,
+            "lng": 113.27,
+            "value": 82,
+            "name": "鹤洞大桥",
+            "district": "荔湾/海珠",
+            "type": "常发拥堵",
+            "peak": "早晚高峰"
+          },
+          {
+            "lat": 23.105,
+            "lng": 113.42,
+            "value": 55,
+            "name": "黄埔东路",
+            "district": "黄埔",
+            "type": "偶发拥堵",
+            "peak": "晚高峰"
+          },
+          {
+            "lat": 22.75,
+            "lng": 113.58,
+            "value": 35,
+            "name": "进港大道",
+            "district": "南沙",
+            "type": "偶发拥堵",
+            "peak": "早晚高峰"
+          }
+        ],
+        "regions": [
+          {
+            "district": "天河",
+            "value": 88
+          },
+          {
+            "district": "越秀",
+            "value": 82
+          },
+          {
+            "district": "海珠",
+            "value": 78
+          },
+          {
+            "district": "荔湾",
+            "value": 65
+          },
+          {
+            "district": "白云",
+            "value": 60
+          },
+          {
+            "district": "番禺",
+            "value": 55
+          },
+          {
+            "district": "黄埔",
+            "value": 38
+          },
+          {
+            "district": "南沙",
+            "value": 22
+          },
+          {
+            "district": "增城",
+            "value": 25
+          },
+          {
+            "district": "花都",
+            "value": 20
+          },
+          {
+            "district": "从化",
+            "value": 15
+          }
+        ]
+      },
+      "chartData": {
+        "type": "bar",
+        "title": "广州各区交通拥堵指数",
+        "xField": "district",
+        "yField": "value",
+        "unit": "分"
+      },
+      "stats": [
+        {
+          "label": "常发拥堵点",
+          "value": "22 处"
+        },
+        {
+          "label": "最堵区域",
+          "value": "天河区"
+        },
+        {
+          "label": "高峰延时",
+          "value": "1.8×"
+        }
+      ]
+    }
+  }
+}

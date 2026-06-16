@@ -2,7 +2,6 @@ node_modules/
 dist/
 .superpowers/
 backend/gzmap.db*
-backend/mock_data.json
 __pycache__/
 *.pyc
 .env.local
